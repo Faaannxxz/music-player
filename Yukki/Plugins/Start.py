@@ -29,10 +29,10 @@ __MODULE__ = "Essentials"
 __HELP__ = """
 
 
-/start
+start
 - Start the Bot.
 
-/help
+help
 - Get Commands Helper Menu.
 
 /settings
